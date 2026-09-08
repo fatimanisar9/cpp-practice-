@@ -5,17 +5,13 @@ This repository contains my C++ programming practice and basic concepts.
 ## Topics Covered
 
 * Variables and Data Types
-* Input and Output
 * If-Else Statements
 * Loops
 * Functions
 * Arrays
 * Pointers
-* Classes and Objects
-* Constructors
-* Copy Constructor
-* Dynamic Memory Allocation
-* Object Pointers
+* Recursion
+
 
 ## Purpose
 
