@@ -1,0 +1,32 @@
+# Pointer, Reference and Dereference in C++
+
+This program explains the basic concepts of **Pointer, Reference, and Dereference** in C++.
+
+## Pointer
+
+A pointer is a variable that stores the **memory address** of another variable.
+
+```cpp
+int *ptr = &num;
+```
+
+## Reference
+
+A reference is another **name (alias)** for an existing variable.
+
+```cpp
+int &ref = num;
+```
+
+## Dereference
+
+Dereference (`*`) is used to access the **value stored at the address** held by a pointer.
+
+```cpp
+cout << *ptr;
+```
+
+## Important Symbols
+
+* `&` → Address / Reference
+* `*` → Pointer / Dereference
