@@ -1,0 +1,30 @@
+# Functions in C++
+
+A **function** is a block of code that performs a specific task.
+
+Functions help us **reuse code** and make the program easier to understand.
+
+## Why Use Functions?
+
+* To avoid repeating the same code.
+* To make code organized.
+* To make programs easier to understand.
+* To reuse code whenever needed.
+
+## Types of Functions
+
+### 1. User-Defined Function
+
+A function created by the programmer to perform a specific task.
+
+### 2. Built-in Function
+
+Functions already provided by C++, such as `cout` and `sqrt()`.
+
+## Important Parts of a Function
+
+* **Function Name** → Name used to call the function.
+* **Return Type** → Tells what type of value the function returns.
+* **Parameters** → Values passed to a function.
+* **Return Statement** → Sends a value back from the function.
+* **Function Call** → Used to execute the function.

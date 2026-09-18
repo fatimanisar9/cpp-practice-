@@ -1,0 +1,19 @@
+# Conditional Statements in C++
+
+Conditional statements are used to **make decisions** in a program based on a condition.
+
+## Types
+
+* `if` — executes code when condition is true.
+* `if-else` — chooses between two conditions.
+* `else-if` — checks multiple conditions.
+
+## Operators
+
+* `==` Equal to
+* `!=` Not equal to
+* `>` Greater than
+* `<` Less than
+* `>=` Greater than or equal to
+* `<=` Less than or equal to
+

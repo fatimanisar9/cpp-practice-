@@ -1,0 +1,20 @@
+# Recursion in C++
+
+**Recursion** is a process in which a function **calls itself** to solve a problem.
+
+A recursive function keeps calling itself until a **base condition** is reached.
+
+## Important Parts
+
+* **Recursive Call** → A function calling itself.
+* **Base Condition** → Stops the recursion.
+* Without a base condition, the function can run continuously.
+
+## Example Concept
+
+`Function → calls itself → calls itself → Base Condition → Stops`
+
+## Why Use Recursion?
+
+* Useful for solving problems that can be divided into smaller similar problems.
+* Commonly used in factorial, Fibonacci, searching, and tree problems.
